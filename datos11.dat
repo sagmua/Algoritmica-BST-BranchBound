@@ -1,0 +1,22 @@
+
+Distancia recorrida con Greedy: 29121
+1 9 8 3 11 7 6 5 2 4 10 
+
+Distancia recorrida con B&B: 19593
+1 6734 1453
+8 7265 1268
+9 6898 1885
+7 7573 3716
+6 7608 4458
+11 5468 2606
+5 3082 1644
+10 1112 2049
+4 401 841
+2 2233 10
+3 5530 1424
+1 6734 1453
+
+Nodos Expandidos: 184627
+Numero de Podas:  9755
+Tamaño maximo de la cola de nodos vivos: 95265
+Tiempo de ejecucion del algoritmo: 0.488108

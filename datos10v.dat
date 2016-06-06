@@ -1,0 +1,21 @@
+
+Distancia recorrida con Greedy: 188
+1 3 2 9 10 5 4 6 7 8 
+
+Distancia recorrida con B&B: 159
+1 37 52
+3 17 63
+2 31 62
+9 49 49
+10 52 64
+5 20 26
+4 21 47
+6 40 30
+7 51 21
+8 52 33
+1 37 52
+
+Nodos Expandidos: 49528
+Numero de Podas:  1408
+Tamaño maximo de la cola de nodos vivos: 28392
+Tiempo de ejecucion del algoritmo: 0.132255
